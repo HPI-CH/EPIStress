@@ -25,11 +25,10 @@ pip install -r requirements.txt
 ```
 
 3. Run the Experiment:
-   Execute the following script to start the experiment:
-   ```bash
+Execute the following script to start the experiment:
+```bash
 python main_study_full.py
 ```
-
 4. Language Selection
 At the beginning of the experiment, you will be prompted to select your preferred language: English or German.
 
