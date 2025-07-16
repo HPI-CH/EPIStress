@@ -4,10 +4,14 @@ This repository contains experiment with dynamic language control functionality.
 
 Setup Instructions
 1. Clone the Repository
-´´´bash
+```bash
 git clone https://github.com/HPI-CH/EPIStress.git
+cd EPIStress
+```
 📌 Note: Update the base_path in the code to the path where the repository is saved on your system.
-´´´
+
+
+
 
 
 
