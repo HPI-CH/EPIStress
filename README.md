@@ -12,7 +12,6 @@ cd EPIStress
 
 2. Create and Activate Conda Environment (Make sure you have conda installed in your system)
  ```bash
-Option A:
 conda env create -f environment.yml
 conda activate psychopy
 ```
