@@ -1,4 +1,4 @@
-# EPIStress
+# Psychopy Setup
 
 This repository contains experiment with dynamic language control functionality. The experiment supports both German and English, and has been tested on Ubuntu systems using Python 3.8.18.
 
@@ -30,6 +30,12 @@ At the beginning of the experiment, you will be prompted to select your preferre
 Follow the instructions and answer all the questions presented during the experiment.
 
 
+# Data Setup
+Download the data using the link here #ToDo
+
+# Data Loader:
+
+Use Data Loader.py to download Raw, Labelled, Preprocesses, Features data. Raw contains all unprocessed sensor streams (Muse EEG, Empatica ACC/BVP/EDA/TEMP, PsychoPy logs & questionnaires, stretched data); Labeled contains synchronized, segmented raw data per task; Preprocessed contains cleaned & preprocessed labeled data; Features contains features extracted from the preprocessed data.
 
 
 
