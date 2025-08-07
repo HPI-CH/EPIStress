@@ -27,6 +27,7 @@ pip install -r requirements.txt
 3. Run the Experiment:
 Execute the following script to start the experiment:
 ```bash
+cd Psychopy
 python main_study_full.py
 ```
 4. Language Selection
