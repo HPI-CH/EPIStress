@@ -8,21 +8,15 @@ Setup Instructions
 git clone https://github.com/HPI-CH/EPIStress.git
 cd EPIStress
 ```
-📌 Note: Update the base_path in the code to the path where the repository is saved on your system.
+📌 Note: Update the base_path in the code to the path where the repository is saved on your system. 
 
-2. Create and Activate Conda Environment
+2. Create and Activate Conda Environment (Make sure you have conda installed in your system)
  ```bash
 Option A:
 conda env create -f environment.yml
 conda activate psychopy
 ```
 
-```bash
-Option B:
-python3.8 -m venv venv
-source venv/bin/activate
-pip install -r requirements.txt
-```
 
 3. Run the Experiment:
 Execute the following script to start the experiment:
