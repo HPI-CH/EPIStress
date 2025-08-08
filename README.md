@@ -31,7 +31,7 @@ Follow the instructions and answer all the questions presented during the experi
 
 
 # Data Setup (Download the data)
-Download the data using the link here #ToDo
+Download the data using the link [Here] https://zenodo.org/records/16407549
 
 # Folder Structure
 <img width="1574" height="1228" alt="Screenshot 2025-08-08 at 16 03 13" src="https://github.com/user-attachments/assets/39d0f624-d9e9-4779-91c6-2dc10c72fc45" />
