@@ -33,6 +33,10 @@ Follow the instructions and answer all the questions presented during the experi
 # Data Setup (Download the data)
 Download the data using the link here #ToDo
 
+# Folder Structure
+<img width="1574" height="1228" alt="Screenshot 2025-08-08 at 16 03 13" src="https://github.com/user-attachments/assets/39d0f624-d9e9-4779-91c6-2dc10c72fc45" />
+
+
 # Data Loader (A script to load each part of your downloaded EPIStress dataset (Raw, Labeled, Preprocessed, Features))
 
 
@@ -41,7 +45,8 @@ Use Data Loader.ipynb to download Raw, Labelled, Preprocesses, Features data. Ra
 How to use:
 1. Set your base_path on the Main function.
 2. Run all cells.
-3. Execute the notebook cells to display the output you need.. 
+3. Execute the notebook cells to display the output you need.
+
 
 
 
