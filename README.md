@@ -35,7 +35,12 @@ Download the data using the link here #ToDo
 
 # Data Loader:
 
-Use Data Loader.py to download Raw, Labelled, Preprocesses, Features data. Raw contains all unprocessed sensor streams (Muse EEG, Empatica ACC/BVP/EDA/TEMP, PsychoPy logs & questionnaires, stretched data); Labeled contains synchronized, segmented raw data per task; Preprocessed contains cleaned & preprocessed labeled data; Features contains features extracted from the preprocessed data.
+Use Data Loader.ipynb to download Raw, Labelled, Preprocesses, Features data. Raw contains all unprocessed sensor streams (Muse EEG, Empatica ACC/BVP/EDA/TEMP, PsychoPy logs & questionnaires, stretched data); Labeled contains synchronized, segmented raw data per task; Preprocessed contains cleaned & preprocessed labeled data; Features contains features extracted from the preprocessed data.
+
+How to use:
+1. Set your base_path on the Main function.
+2. Run all cells.
+3. Execute the notebook cells to display the output you need.. 
 
 
 
